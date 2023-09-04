@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/quasarblues/interactive-rating-component)
-- Live Site URL: [Netlify Live Site](https://interactive-rating-component-quasarbl.netlify.app/)
+- Solution URL: [Github Repo](https://github.com/harsha-rvh/interactive-rating-component)
+- Live Site URL: [Vercel Live Site](https://interactive-rating-component-umber-one.vercel.app/)
 
 ## My process
 
